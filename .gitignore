@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+kaggle.json
+human-resource-data-set-the-company/2021.06_COL_2021.txt
+human-resource-data-set-the-company/2021.06_job_profile_mapping.txt
+human-resource-data-set-the-company/Changelog
+human-resource-data-set-the-company/CompanyData.txt
+human-resource-data-set-the-company/Disclaimer
+human-resource-data-set-the-company/Diversity.txt
+human-resource-data-set-the-company/EngagementSurvey.txt
+human-resource-data-set-the-company/README.md
